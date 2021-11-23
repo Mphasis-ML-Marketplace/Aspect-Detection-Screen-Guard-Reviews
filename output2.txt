@@ -1,0 +1,1 @@
+{"review":"\"price is high. It is easy to install. Fits properly on the screen.\"","topics":[{"aspect":{"price":0.49886541574608334},"sentence":"price high"},{"aspect":{"fit":0.7509623905798077},"sentence":"easy install"},{"aspect":{"protection":0.69832092262807},"sentence":"fit properly screen"}]}
